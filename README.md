@@ -1,4 +1,4 @@
-<h2># CPP-PROGRAMMING-atomic-badger:</h2>h2>
+<h2># CPP-PROGRAMMING-atomic-badger:</h2>
 
 <p>This repository contains information for learning to program in C++ Version 17.<br>
 <em>The sections are divided into links that go to the appropriate section.</em><br>
