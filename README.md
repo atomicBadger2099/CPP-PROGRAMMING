@@ -1,3 +1,3 @@
 # CPP-PROGRAMMING
 
-<a href="" target="_blank">1: definitions</a><br>
+<a href="CONCEPTS DEFINITIONS.pdf" target="_blank">1: definitions</a><br>
